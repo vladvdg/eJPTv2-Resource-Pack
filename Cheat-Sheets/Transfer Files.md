@@ -1,7 +1,3 @@
-[[Root 𖣂]] | [[eJPT - Cheat Sheets]] | [[eJPT - README]]
-
-<hr>
-
 # Using Netcat
 
 **Server setup and Netcat transfer**
