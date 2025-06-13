@@ -1,4 +1,4 @@
-# eJPTv2-Resource-Pack
+# eJPTv2
 
 NE Security’s eJPT is for entry-level Penetration testers that validates that the individual has the knowledge, skills, and abilities required to fulfill a role as a Junior Penetration Tester.
 
