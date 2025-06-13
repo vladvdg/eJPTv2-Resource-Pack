@@ -1,7 +1,3 @@
-[[Root 𖣂]] | [[eJPT - Cheat Sheets]] | [[eJPT - README]]
-
-<hr>
-
 # Exploiting Misconfigured Cron Jobs
 
 ```shell
