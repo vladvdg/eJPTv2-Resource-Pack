@@ -1,8 +1,3 @@
-
-[[Root 𖣂]] | [[eJPT - Cheat Sheets]] | [[eJPT - README]]
-
-<hr>
-
 A **reverse shell** is a remote shell where the target connects back to the attacker's listener; it's effective since no tools are needed on the target, but embedding the attacker's IP in the payload can expose them during forensic analysis.
 
 ```shell
