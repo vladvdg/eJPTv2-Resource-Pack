@@ -46,7 +46,7 @@ This exam is designed to be the first milestone certification for someone with l
 
 </n>
 
-- [Skill Check - CTF]()
+- [Skill Check - CTF](https://github.com/vladvdg/eJPTv2-Resource-Pack/blob/main/Skill-Check.md)
 
 # Penetration Testing Phases
 
