@@ -35,3 +35,76 @@ This exam is designed to be the first milestone certification for someone with l
 	- Locate hidden file and directories
 	- Conduct brute-force login attack
 	- Conduct web application reconnaissance
+<hr>
+
+# Content Map
+
+- [[Course Notes]]
+
+</n>
+
+- [[eJPT - Cheat Sheets]]
+
+</n>
+
+- [[Skill Check - CTF]]
+
+</n>
+
+- [[Course Files]]
+
+</n>
+
+- [[Exam notes]]
+
+<hr>
+
+# Penetration Testing Phases
+
+- **Information Gathering**
+	- Network Mapping
+	- Host Discovery
+	- Port Scanning
+	- Service Detection & OS
+	- Detection
+- **Enumeration**
+	- Service Enumeration
+	- User Enumeration
+	- Share Enumeration
+- **Exploitation**
+	- Vulnerability Analysis & Identification
+	- Developing / Modifying Exploits
+	- Service Exploitation
+- **Post exploitation**
+	- Local Enumeration
+	- Privilege Escalation
+	- Maintaining Access
+	- Clearing Tracks
+
+<hr>
+
+# Black Box Methodology
+
+- Host Discovery
+- Port Scanning & Enumeration
+- Vulnerability detection / scanning
+- Exploitation
+	- Manual
+	- Automated
+- Post Exploitation
+	- Privilege Escalation
+	- Persistence
+	- Dumping Hashes
+
+<hr>
+
+# Exploitation Methodology
+
+- Identify Vulnerable Services
+- Identify & Prepare Exploit Code
+- Gaining Access
+	- Automated - MSF
+	- Manual
+- Obtain remote access on target system
+- Bypass AV detection
+- Pivot on to other Systems
