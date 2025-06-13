@@ -1,8 +1,4 @@
-[[Root 𖣂]] | [[eJPT - Cheat Sheets]] | [[eJPT - README]]
-
-<hr>
-
-# 🔐 Username & Password Wordlists
+# Username & Password Wordlists
 
 - `/usr/share/wordlists/rockyou.txt`  
     → One of the most popular password lists for brute-forcing.  
@@ -28,7 +24,7 @@
 
 <br>
 
-# 📁 Directories & Files Enumeration
+# Directories & Files Enumeration
 
 - `/usr/share/metasploit-framework/data/wordlists/directory.txt`  
     → Basic list of web directories — works well with `dir_scanner`.
@@ -44,7 +40,7 @@
 
 <br>
 
-# 🐚 Web Shells (Post-Exploitation)
+# Web Shells (Post-Exploitation)
 
 - `/usr/share/webshells/php/php-reverse-shell.php`  
     → PHP reverse shell — upload this to gain a shell from LFI/RFI or insecure upload.
@@ -57,7 +53,7 @@
 
 <br>
 
-# 🪟 Windows Post-Exploitation Binaries
+# Windows Post-Exploitation Binaries
 
 - `/usr/share/windows-resources/binaries/`  
     → Useful Windows binaries for file transfer or reverse shells:  
@@ -65,9 +61,9 @@
 
 <br>
 
-# 🎯 Common Payloads for eJPT
+# Common Payloads
 
-### ▶️ Windows Payloads
+### Windows Payloads
 
 - `windows/meterpreter/reverse_tcp`  
     → Full-featured Meterpreter reverse shell (32-bit systems).
@@ -83,7 +79,7 @@
 
 <br>
 
-### ▶️ Linux Payloads
+### Linux Payloads
 
 - `linux/x86/meterpreter/reverse_tcp`  
     → Reverse Meterpreter shell for Linux.
@@ -102,7 +98,7 @@
 
 <br>
 
-### ▶️ Web-Based Payloads
+### Web-Based Payloads
 
 - `php/meterpreter/reverse_tcp`  
     → Meterpreter shell through a PHP upload.
@@ -118,7 +114,7 @@
 
 <br>
 
-### ▶️ Multi-Platform
+### Multi-Platform
 
 - `multi/handler`  
     → Listener module used to catch incoming reverse shells (match to payload used).
