@@ -5,6 +5,8 @@
 **Ports**: TCP 21 (command), TCP 20 (data)	  
 **Known Vulnerabilities**: Anonymous login (misconfiguration), Brute-force attacks, Cleartext credential sniffing, FTP Bounce Attack (CVE-1999-0205)
 
+<br>
+
 # Basic FTP Usage
 
 ```shell
