@@ -38,7 +38,7 @@ This exam is designed to be the first milestone certification for someone with l
 
 # Content Map
 
-- Course Notes
+- [Course Notes Index](https://github.com/vladvdg/eJPTv2-Resource-Pack/blob/main/Course%20Notes%20Index.md)
 
 </n>
 
