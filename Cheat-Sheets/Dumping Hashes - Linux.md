@@ -1,7 +1,3 @@
-[[Root 𖣂]] | [[eJPT - Cheat Sheets]] | [[eJPT - README]]
-
-<hr>
-
 # Password Cracker: Linux
 
 - `/etc/shadow` - This file contains hashed passwords for all local users.
