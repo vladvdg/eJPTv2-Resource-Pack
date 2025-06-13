@@ -1,7 +1,3 @@
-[[Root 𖣂]] | [[eJPT - Cheat Sheets]] | [[eJPT - README]]
-
-<hr>
-
 A **bind shell** is a remote shell where the attacker connects to a listener on the target system; though often blocked or flagged, it's important to understand how it works and how to set it up using Netcat.
 In order to setup a bind shell with Netcat, we will need to transfer the nc.exe executable to the target system.
 
