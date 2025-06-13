@@ -6,6 +6,8 @@
 **Ports**: TCP 80 (HTTP), TCP 443 (HTTPS)  
 **Known Vulnerabilities**: Directory traversal, RCE via web apps (PHP, CGI, Apache modules), WebDAV misconfigs, Vulnerable CMS (e.g., ProcessMaker), Shellshock, PHP CGI injection, Auth bypasses
 
+<br>
+
 # Basic HTTP - Enumeration
 
 ```shell
