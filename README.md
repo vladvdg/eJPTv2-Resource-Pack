@@ -39,25 +39,15 @@ This exam is designed to be the first milestone certification for someone with l
 
 # Content Map
 
-- [[Course Notes]]
+- Course Notes
 
 </n>
 
-- [[eJPT - Cheat Sheets]]
+- eJPT - Cheat Sheets
 
 </n>
 
-- [[Skill Check - CTF]]
-
-</n>
-
-- [[Course Files]]
-
-</n>
-
-- [[Exam notes]]
-
-<hr>
+- Skill Check - CTF
 
 # Penetration Testing Phases
 
@@ -81,8 +71,6 @@ This exam is designed to be the first milestone certification for someone with l
 	- Maintaining Access
 	- Clearing Tracks
 
-<hr>
-
 # Black Box Methodology
 
 - Host Discovery
@@ -95,8 +83,6 @@ This exam is designed to be the first milestone certification for someone with l
 	- Privilege Escalation
 	- Persistence
 	- Dumping Hashes
-
-<hr>
 
 # Exploitation Methodology
 
