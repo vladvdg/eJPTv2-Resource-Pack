@@ -1,7 +1,3 @@
-[[Root 𖣂]] | [[eJPT - Cheat Sheets]] | [[eJPT - README]]
-
-<hr>
-
 *To use the Metasploit persistence modules, we will first need to elevate our privileges on the Linux target.*
 
 # Persistence via SSH Keys
