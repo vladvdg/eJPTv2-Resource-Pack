@@ -16,7 +16,7 @@
 </n>
 
 2. **Post-Exploitation - Windows**
-	- [[Enumeration - Windows]()
+	- [Enumeration - Windows]()
 	- [Privilege Escalation - Windows]()
 	- [Dumping Hashes - Windows]()
 	- [Persistence - Windows]()
