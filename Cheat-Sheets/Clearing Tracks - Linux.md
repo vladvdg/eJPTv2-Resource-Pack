@@ -1,7 +1,3 @@
-[[Root 𖣂]] | [[eJPT - Cheat Sheets]] | [[eJPT - README]]
-
-<hr>
-
 ```shell
 history -c && history -w
 # This clears the session history and saves the empty history file
