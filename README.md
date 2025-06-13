@@ -42,11 +42,11 @@ This exam is designed to be the first milestone certification for someone with l
 
 </n>
 
-- eJPT - Cheat Sheets
+- [eJPT - Cheat Sheets](https://github.com/vladvdg/eJPTv2-Resource-Pack/blob/main/eJPT%20-%20Cheat%20Sheets.md)
 
 </n>
 
-- Skill Check - CTF
+- [Skill Check - CTF]()
 
 # Penetration Testing Phases
 
