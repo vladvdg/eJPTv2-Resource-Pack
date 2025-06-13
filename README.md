@@ -35,7 +35,6 @@ This exam is designed to be the first milestone certification for someone with l
 	- Locate hidden file and directories
 	- Conduct brute-force login attack
 	- Conduct web application reconnaissance
-<hr>
 
 # Content Map
 
