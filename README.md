@@ -1,2 +1,37 @@
 # eJPTv2-Resource-Pack
-Personal eJPT study notes, cheat sheets, and CTF practice.
+
+NE Security’s eJPT is for entry-level Penetration testers that validates that the individual has the knowledge, skills, and abilities required to fulfill a role as a Junior Penetration Tester.
+
+This exam is designed to be the first milestone certification for someone with little to no experience in cybersecurity, simulating the skills utilized during a real-world engagement. This exam truly shows that the candidate has what it takes to be part of a high-performing penetration testing team.
+
+**The eJPT evaluates an individual’s skills across various domains and objectives, certifying their mastery and understanding:**
+
+1. **Assessment Methodologies (25%)**
+	- Locate endpoints on a network
+	- Identify open ports and services on a target
+	- Identify operating system of a target
+	- Extract company information from public sources
+	- Gather email addresses from public sources
+	- Gather technical information from public sources
+	- Identify vulnerabilities in services
+	- Evaluate the criticality and potential impact of identified vulnerabilities
+
+2. **Host and Networking Auditing (25%)**
+	- Compile information from files on target
+	- Enumerate network information from files on target
+	- Enumerate system information on target
+	- Gather user account information on target
+	- Transfer files to and from target
+	- Gather hash/password information from target
+
+3. **Host and Network Penetration Testing (35%)**
+	- Identify and modify exploits
+	- Conduct exploitation with metasploit
+	- Demonstrate pivoting by adding a route and by port forwarding
+	- Conduct brute-force password attacks and hash cracking
+
+4. **Web Application Penetration Testing (15%)**
+	- Identify vulnerabilities in web applications
+	- Locate hidden file and directories
+	- Conduct brute-force login attack
+	- Conduct web application reconnaissance
