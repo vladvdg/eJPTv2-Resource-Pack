@@ -1,7 +1,3 @@
-[[Root 𖣂]] | [[eJPT - Cheat Sheets]] | [[eJPT - README]]
-
-<hr>
-
 When you gain initial access to a target system, the shell you get is often limited — lacking features like tab completion, proper signal handling (e.g., Ctrl+C), or full TTY (interactive terminal) support. **Upgrading a shell** means turning this basic shell into a **fully interactive, stable shell** so you can work more effectively on the system.
 
 **Check Available Shells**
